@@ -1,4 +1,4 @@
-# Convert-.pdf-to-.jpg-images
+# Convert .pdf to .jpg images
 ## Goal of the project
 It is a simple project to showcase my basic understanding of Python. 
 ## What the project does
