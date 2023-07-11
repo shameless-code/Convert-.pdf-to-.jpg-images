@@ -1,4 +1,6 @@
 # Convert .pdf to .jpg images
+<img src="https://github.com/shameless-code/shameless-code/blob/main/images/Conversion%20.pdf%20to%20multiple%20.jpg.png?raw=true" width="35%" height="35%">
+
 ## Goal of the project
 It is a simple project to showcase my basic understanding of Python. 
 ## What the project does
